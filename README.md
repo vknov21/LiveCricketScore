@@ -100,8 +100,3 @@ Gzip compression is currently not supported by the website, which previously hel
 Contributions, feature requests, and suggestions are welcome! Feel free to fork the repository and submit pull requests.
 
 ---
-
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
