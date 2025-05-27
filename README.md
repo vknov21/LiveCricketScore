@@ -12,8 +12,8 @@ The app fetches data using GraphQL, refreshing every **4 seconds** while keeping
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/vknov21/LiveCricketScore
+   cd LiveCricketScore
    ```
 
 2. Install the required dependencies:
@@ -26,7 +26,7 @@ The app fetches data using GraphQL, refreshing every **4 seconds** while keeping
 To start the application, run:
 
 ```bash
-python3 <your_path>/cricket_iql.py
+python3 cricket_iql.py
 ```
 
 - A window will appear.
