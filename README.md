@@ -38,6 +38,7 @@ python3 cricket_iql.py
 ## ✨ Features
 
 ### 🖥️ User Interface
+[sample.webm](https://github.com/user-attachments/assets/21d44111-20be-4b19-adb5-d5d2d6d7304c)
 
 - ✅ **Always-on-top window** (can be toggled via right-click).
 - 🔍 **Dynamic transparency**:
